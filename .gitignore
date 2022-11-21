@@ -25,3 +25,8 @@ env
 .mypy_cache/
 .dmypy.json
 dmypy.json
+
+# mutmut
+.mutmut-cache
+html/
+*.bak
