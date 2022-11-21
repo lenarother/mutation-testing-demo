@@ -15,7 +15,6 @@ from src.roman_to_arabic.roman import roman2arabic
         ('VI', 6),
         ('IV', 4),
         ('MCMLXXXV', 1985),
-        ('MCDX', 1410),
     ),
 )
 def test_roman_is_change_into_arabic(roman, arabic):
